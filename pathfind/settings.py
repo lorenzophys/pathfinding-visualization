@@ -1,0 +1,17 @@
+#Window
+HEIGHT = 640
+WIDTH = 640
+FPS = 120
+
+#Colors
+GREY = (200,200,200)
+WHITE = (255,255,255)
+RED = (255,0,0)
+GREEN = (0,255,0)
+BLUE = (0,0,255)
+BLACK = (0,0,0)
+
+#Others
+OFFSET = 20
+SPACING = 20
+N = 30
