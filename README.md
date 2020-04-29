@@ -20,7 +20,7 @@ board.main()
 ```
 
 ## Requirements
-Python version: 3
+Python version: 3  
 Libraries: pygame
 
 ## License
