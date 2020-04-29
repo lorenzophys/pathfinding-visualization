@@ -13,7 +13,7 @@ Dijkstra's algorithm, as another example of a uniform-cost search algorithm, can
 ![dijkstra](http://g.recordit.co/JrMaXw6vGS.gif)
 
 ## How to use it
-Run *main.py*, draw the obstacles and press the Spacebar. By default it will run A*, to run Dijkstra, just put
+Run *main.py*, draw the obstacles and press the Spacebar. By default it will run A* To run Dijkstra just put
 ```python
 board = Board(dijkstra=True)
 board.main()
